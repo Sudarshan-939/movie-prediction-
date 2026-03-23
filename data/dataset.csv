@@ -1,0 +1,74 @@
+title,year,genre,runtime,metascore,rt_score,tmdb_score,tmdb_popularity,votes,imdb_rating
+The Shawshank Redemption,1994,Drama,142,80,91,8.7,52.3,2500000,9.3
+The Godfather,1972,Crime,175,100,98,8.7,98.7,1700000,9.2
+The Dark Knight,2008,Action,152,84,94,8.5,123.1,2700000,9.0
+Schindler's List,1993,Biography,195,95,97,8.6,63.4,1400000,9.0
+12 Angry Men,1957,Drama,96,96,100,8.5,18.4,800000,9.0
+The Lord of the Rings: The Return of the King,2003,Adventure,201,94,95,8.5,116.4,1800000,8.9
+Pulp Fiction,1994,Crime,154,94,92,8.5,89.2,2000000,8.9
+The Lord of the Rings: The Fellowship of the Ring,2001,Adventure,178,92,91,8.4,103.5,1900000,8.8
+Forrest Gump,1994,Drama,142,82,71,8.5,107.8,2100000,8.8
+Fight Club,1999,Drama,139,66,79,8.4,87.6,2200000,8.8
+Inception,2010,Action,148,74,87,8.4,141.8,2400000,8.8
+The Good the Bad and the Ugly,1966,Western,178,90,97,8.5,22.1,750000,8.8
+The Matrix,1999,Action,136,73,83,8.2,95.6,1900000,8.7
+Goodfellas,1990,Crime,146,90,97,8.5,63.4,1200000,8.7
+One Flew Over the Cuckoo's Nest,1975,Drama,133,84,94,8.3,34.5,1000000,8.7
+Star Wars: Episode V,1980,Action,124,82,94,8.4,66.7,1300000,8.7
+Interstellar,2014,Adventure,169,74,72,8.3,140.4,1900000,8.6
+Saving Private Ryan,1998,Drama,169,91,93,8.2,66.3,1400000,8.6
+The Silence of the Lambs,1991,Crime,118,85,95,8.3,60.1,1500000,8.6
+Whiplash,2014,Drama,107,88,94,8.3,47.5,900000,8.5
+The Prestige,2006,Drama,130,66,76,8.2,67.8,1300000,8.5
+The Departed,2006,Crime,151,85,91,8.2,56.4,1400000,8.5
+Gladiator,2000,Action,155,67,77,8.2,85.3,1500000,8.5
+American History X,1998,Drama,119,62,83,8.2,27.6,1100000,8.5
+The Lion King,1994,Animation,88,88,93,8.3,112.5,1000000,8.5
+Back to the Future,1985,Adventure,116,87,96,8.3,87.4,1300000,8.5
+The Pianist,2002,Biography,150,85,96,8.2,35.2,900000,8.5
+Terminator 2,1991,Action,137,75,93,8.0,85.1,1100000,8.5
+Avengers: Endgame,2019,Action,181,78,94,7.8,196.4,1100000,8.4
+Seven Samurai,1954,Action,207,98,100,8.2,10.1,380000,8.6
+The Usual Suspects,1995,Crime,106,77,88,8.1,34.2,1100000,8.5
+Leon: The Professional,1994,Action,110,64,72,8.2,42.3,1200000,8.5
+Avatar,2009,Action,162,83,82,7.3,244.3,1300000,7.8
+Titanic,1997,Drama,194,75,88,7.9,187.6,1200000,7.8
+Spider-Man,2002,Action,121,73,90,7.3,92.3,800000,7.4
+Iron Man,2008,Action,126,79,94,7.6,131.2,900000,7.9
+The Avengers,2012,Action,143,69,92,7.4,143.2,1400000,8.0
+Jurassic Park,1993,Adventure,127,68,91,7.8,87.5,1000000,8.2
+Parasite,2019,Drama,132,96,99,8.5,65.4,850000,8.5
+The Irishman,2019,Crime,209,95,96,7.9,41.2,400000,7.8
+Joker,2019,Drama,122,59,68,8.1,197.3,1100000,8.4
+Once Upon a Time in Hollywood,2019,Comedy,162,83,85,7.6,59.3,650000,7.6
+Marriage Story,2019,Drama,137,94,95,7.9,30.2,250000,7.9
+1917,2019,Drama,119,78,89,8.2,58.4,580000,8.3
+Knives Out,2019,Crime,130,82,97,7.9,65.7,700000,7.9
+Dune: Part One,2021,Sci-Fi,155,74,83,7.9,165.4,650000,8.0
+No Time to Die,2021,Action,163,68,83,7.3,148.4,400000,7.3
+Spider-Man: No Way Home,2021,Action,148,71,93,8.2,305.4,800000,8.2
+The Batman,2022,Action,176,87,85,7.8,163.4,600000,7.8
+Everything Everywhere All at Once,2022,Action,139,81,95,7.8,98.2,550000,7.8
+Top Gun: Maverick,2022,Action,130,78,96,8.3,174.3,500000,8.3
+The Whale,2022,Drama,117,66,61,7.6,54.3,250000,7.6
+Tár,2022,Drama,158,92,84,7.3,48.2,200000,7.3
+Babylon,2022,Comedy,189,72,56,7.3,111.3,200000,7.3
+The Menu,2022,Comedy,107,72,88,7.7,86.3,300000,7.7
+Glass Onion,2022,Crime,140,73,92,7.2,96.3,400000,7.2
+Oppenheimer,2023,Biography,180,88,93,8.3,194.3,700000,8.3
+Barbie,2023,Comedy,114,80,88,7.0,285.3,500000,7.0
+Killers of the Flower Moon,2023,Crime,206,89,93,7.7,87.3,300000,7.7
+Poor Things,2023,Drama,141,85,85,7.9,64.2,250000,7.9
+The Zone of Interest,2023,Drama,105,94,90,7.3,32.1,150000,7.3
+Transformers,2007,Action,143,61,57,6.4,97.3,500000,7.0
+Batman v Superman,2016,Action,151,44,28,6.0,106.3,400000,6.4
+Suicide Squad,2016,Action,123,40,26,5.9,102.3,500000,6.0
+Venom,2018,Action,112,35,30,6.5,148.3,300000,6.7
+Morbius,2022,Action,104,35,15,5.2,121.3,200000,5.2
+Catwoman,2004,Action,104,27,9,3.5,21.3,100000,3.3
+The Room,2003,Drama,99,NA,26,3.7,8.3,80000,3.7
+Birdemic,2010,Horror,95,NA,0,1.8,2.1,20000,1.8
+Disaster Movie,2008,Comedy,87,15,2,2.4,4.2,30000,1.9
+Movie 43,2013,Comedy,94,18,5,4.4,12.1,80000,4.3
+Gigli,2003,Crime,121,18,6,2.8,6.3,20000,2.4
+Jack and Jill,2011,Comedy,91,23,3,3.3,18.4,50000,3.3
