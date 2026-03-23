@@ -1,0 +1,20 @@
+services:
+  - type: web
+    name: cinescore-backend
+    env: python
+    rootDir: backend
+    buildCommand: pip install -r requirements.txt
+    startCommand: gunicorn app:app
+    
+  - type: web
+    name: cinescore-frontend
+    env: python
+    rootDir: frontend
+    buildCommand: pip install -r requirements.txt
+    startCommand: streamlit run app.py --server.port $PORT --server.address 0.0.0.0
+    envVars:
+      - key: BACKEND_URL
+        fromService:
+          type: web
+          name: cinescore-backend
+          envVarKey: RENDER_EXTERNAL_URL
