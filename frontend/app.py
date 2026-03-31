@@ -43,7 +43,7 @@ ICO_FRAME    = _ico('<rect x="3" y="3" width="18" height="18" rx="2"/><circle cx
 ICO_PLAY_BIG = _ico('<circle cx="12" cy="12" r="10"/><polygon points="10 8 16 12 10 16" fill="currentColor"/>', size=52)
 
 import os
-BACKEND    = os.environ.get("BACKEND_URL", "http://localhost:5000")
+BACKEND    = os.environ.get("BACKEND_URL", "https://movie-prediction-ufhz.onrender.com")
 YT_API_KEY = "AIzaSyDUUBNeOc1TFqQeBEJick89iXBrZg3x1as"
 YT_SEARCH  = "https://www.googleapis.com/youtube/v3/search"
 
