@@ -224,6 +224,13 @@ else:
 # ─────────────────────────────────────────────
 #  Routes
 # ─────────────────────────────────────────────
+@app.route("/", methods=["GET"])
+def index():
+    return jsonify({
+        "status": "online", 
+        "message": "CineScore API backend is running. Please access the Streamlit frontend to use the application."
+    })
+
 @app.route("/api/health", methods=["GET"])
 def health():
     return jsonify({"status": "ok", "model_meta": _meta})

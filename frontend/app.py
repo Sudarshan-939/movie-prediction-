@@ -683,29 +683,29 @@ if st.session_state.movie:
 
         st.markdown(f"""
 <div class="mhero">
-  {bd_el}
-  <div class="mhero-grad"></div>
-  <div class="mhero-circuits"></div>
-  <div class="mhero-inner">
-    {poster_el}
-    <div class="mhero-details">
-      <div class="mhero-id">
-        <span style="color:var(--cyan)">›</span> imdb:{imdb_id_label}
-        <div class="mhero-id-line"></div>
-      </div>
-      {rated_html}
-      <div class="mhero-title">{data['title']}</div>
-      <div class="mhero-meta">
-        <span>{data.get('year','—')}</span><span class="mhero-dot">·</span>
-        <span>{data.get('runtime','—')}</span><span class="mhero-dot">·</span>
-        <span>{data.get('language','—')}</span><span class="mhero-dot">·</span>
-        <span>{data.get('country','—')}</span>
-      </div>
-      {tag_html}
-      <div class="mhero-genres">{genre_chips}</div>
-      <div class="mhero-verdict">{ICO_SPARK} {senti}</div>
-    </div>
-  </div>
+{bd_el}
+<div class="mhero-grad"></div>
+<div class="mhero-circuits"></div>
+<div class="mhero-inner">
+{poster_el}
+<div class="mhero-details">
+<div class="mhero-id">
+<span style="color:var(--cyan)">›</span> imdb:{imdb_id_label}
+<div class="mhero-id-line"></div>
+</div>
+{rated_html}
+<div class="mhero-title">{data['title']}</div>
+<div class="mhero-meta">
+<span>{data.get('year','—')}</span><span class="mhero-dot">·</span>
+<span>{data.get('runtime','—')}</span><span class="mhero-dot">·</span>
+<span>{data.get('language','—')}</span><span class="mhero-dot">·</span>
+<span>{data.get('country','—')}</span>
+</div>
+{tag_html}
+<div class="mhero-genres">{genre_chips}</div>
+<div class="mhero-verdict">{ICO_SPARK} {senti}</div>
+</div>
+</div>
 </div>""", unsafe_allow_html=True)
 
         # ── Rating cards (4 cols) ──
